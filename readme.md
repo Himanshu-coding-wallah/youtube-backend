@@ -56,6 +56,7 @@ if we want to push empty folder on github than we have to add a .gitkeep file wh
 ## 2. Database connection mongodb atlas
 - always use trycatch and async await while working with database
 - the mongodb password should not contain any special character  
+
 ### workflow  
 - in constans.js , add db name  
 ```
